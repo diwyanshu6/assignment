@@ -1,0 +1,1 @@
+    cout << mean(n1, n2) << endl;
